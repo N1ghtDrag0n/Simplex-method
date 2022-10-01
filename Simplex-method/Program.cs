@@ -43,7 +43,7 @@ namespace Simplex_method
 
 
             Console.ReadKey();
-
+        
         }
     }
 }
